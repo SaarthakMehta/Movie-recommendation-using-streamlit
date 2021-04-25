@@ -6,5 +6,8 @@ numpy>=1.9.2
 scipy>=0.15.1
 scikit-learn==0.22.1
 pandas>=0.19
+sklearn==0.22.1
 streamlit
 ipython==7.22.0
+Cython>=0.28.5
+
